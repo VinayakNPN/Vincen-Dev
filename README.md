@@ -478,6 +478,6 @@ Have questions or suggestions? Reach out!
 
 ---
 
-**Built with 💙 for Hack-a-Sol 2024 | Making Financial Management Intelligent and Accessible**
+**Built with 💙 for Hack-a-Sol 2025 | Making Financial Management Intelligent and Accessible**
 
 *Ready to take control of your finances? Clone the repo and start your journey today!* 🚀
